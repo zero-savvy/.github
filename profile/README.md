@@ -1,10 +1,5 @@
 # Zero-Savvy
-<p align="center">
-
-**It takes zero knowledge to become a savvy, savvy?**
-
-</p>
-
+___***<p align="center"> 🏴‍☠️🏴‍☠️🏴‍☠️ It takes zero knowledge to become a savvy, savvy? 🏴‍☠️🏴‍☠️🏴‍☠️ </p>***___
 <img src="./Cover_by_Bing_Image_Creator.jpg">
 
 __🚀 Welcome to Zero-Savvy - Empowering Cyber Freedom with Cryptographic Innovation!__
